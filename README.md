@@ -31,3 +31,7 @@ In particular, we should be able to answer the following queries:
 
 The input will be programs represented as Prolog facts of the above form (alloc, copy, load, store and invoke).
 
+HOW TO RUN THIS Program
+1. Install swipl in your system.
+2. Run swipl prologsoln.pl
+3. Ask queries along with facts
